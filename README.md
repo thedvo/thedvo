@@ -113,7 +113,6 @@ I'm currently a Software Engineering Fellow in Springboard's
                             alt="Git" height="35" />
                         <br>
                         <br>
-                        &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/terminal.svg" alt="Terminal" height="35" />
                         &nbsp
                         <img src="images/tech-stack/postman-icon.svg"
