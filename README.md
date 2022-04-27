@@ -1,4 +1,6 @@
 ### Hi, I'm Dan 👋
+
+I'm currently a Software Engineering Fellow in Springboard's 
 <h2 align="center" color="white">Projects</h2>
     <div align="center">
         <table>
@@ -44,7 +46,7 @@
         </table>
     </div>
     <br>
-    <br>
+
 <h2 align="center" color="white">Technologies</h2>
     <div align="center">
         <table>
@@ -106,6 +108,8 @@
                         &nbsp&nbsp&nbsp&nbsp
                         <img src="images/tech-stack/heroku-icon.svg"
                             alt="Heroku" height="44" />
+                        <br>
+                        <br>
                         &nbsp&nbsp&nbsp&nbsp
                         <img src="images/tech-stack/Git-logo.svg"
                             alt="Git" height="44" />
@@ -118,6 +122,8 @@
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/insomnia.svg"
                             alt="Insomnia" height="44" />
+                        <br>
+                        <br>
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/jasmine.svg"
                             alt="Jasmine" height="44" />
@@ -129,8 +135,7 @@
             </tr>
         </table>
     </div>
-    </br>
-    </br>
+   
 <!--
 **thedvo/thedvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
