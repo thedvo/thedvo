@@ -56,21 +56,21 @@ I'm currently a Software Engineering Fellow in Springboard's
                     <br>
                     <div align="center">
                         <img src="images/tech-stack/javascript.svg"
-                            alt="JavaScript" height="30" />
+                            alt="JavaScript" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/html-5.svg"
-                            alt="HTML" height="30" />
+                            alt="HTML" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/css-3.svg"
-                            alt="CSS" height="30" />
+                            alt="CSS" height="35" />
                         <br>
                         <br>
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/bootstrap.svg"
-                            alt="Bootstrap" height="30" />
+                            alt="Bootstrap" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/jquery-vertical.svg"
-                            alt="jQuery" height="30" />
+                            alt="jQuery" height="35" />
                     </div>
                 </td>
                 <td valign="top" width="33.3333%">
@@ -79,21 +79,21 @@ I'm currently a Software Engineering Fellow in Springboard's
                     <div align="center">
                         &nbsp
                         <img src="images/tech-stack/python.svg"
-                            alt="Python" height="30" />
+                            alt="Python" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/nodejs-icon.svg"
-                            alt="Node.js" height="30" />
+                            alt="Node.js" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/expressjs-icon.svg"
-                            alt="Express" height="30" />
+                            alt="Express" height="35" />
                         <br>
                         <br>
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/flask.svg"
-                            alt="Flask" height="30" />
+                            alt="Flask" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/postgresql.svg"
-                            alt="Postgresql" height="30" />
+                            alt="Postgresql" height="35" />
                         <br>
                         <br>
                     </div>
@@ -104,28 +104,27 @@ I'm currently a Software Engineering Fellow in Springboard's
                     <div align="center">
                         &nbsp
                         <img src="images/tech-stack/visual-studio-code.svg"
-                            alt="VS Code" height="30" />
-                        &nbsp&nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/heroku-icon.svg"
-                            alt="Heroku" height="30" />
-                        &nbsp&nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/Git-logo.svg"
-                            alt="Git" height="30" />
+                            alt="VS Code" height="35" />
                         &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/terminal.svg" alt="Terminal" height="30" />
-                        <br>
-                        <br>
+                        <img src="images/tech-stack/heroku-icon.svg"
+                            alt="Heroku" height="35" />
+                        &nbsp&nbsp&nbsp
+                        <img src="images/tech-stack/Git-logo.svg"
+                            alt="Git" height="35" />
+                        &nbsp&nbsp&nbsp
+                        <img src="images/tech-stack/terminal.svg" alt="Terminal" height="35" />
+                        &nbsp
                         <img src="images/tech-stack/postman-icon.svg"
-                            alt="Postman" height="30" />
+                            alt="Postman" height="35" />
                         &nbsp
                         <img src="images/tech-stack/insomnia.svg"
-                            alt="Insomnia" height="30" />
+                            alt="Insomnia" height="35" />
                         &nbsp
                         <img src="images/tech-stack/jasmine.svg"
-                            alt="Jasmine" height="30" />
+                            alt="Jasmine" height="35" />
                         &nbsp
                         <img src="images/tech-stack/jest.svg"
-                            alt="Jest" height="30" />
+                            alt="Jest" height="35" />
                     </div>
                 </td>
             </tr>
