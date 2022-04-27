@@ -25,7 +25,7 @@ Here are some ideas to get you started:
                     <h3 align="center" color="white">Pokemon Trading Card Search</h3>
                     <div align="center">
                         <a href='https://pokemon-tcg-search-dvo.herokuapp.com/'>
-                            <img src="images/app-demos/poke_search_demo.gif" alt="pokemon-tcg-search-info" height="250px" />
+                            <img src="images/app-demos/poke_search_demo.gif" alt="pokemon-tcg-search-info" height="250px" target="_blank"/>
                         </a>
                         <br>
                         <br>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
                     <h3 align="center" color="white">Connect 4</h3>
                     <div align="center">
                         <a href='https://thedvo.github.io/Connect-Four/'>
-                            <img src="images/app-demos/connect-4-demo.gif" alt="connect-4-demo-gif" height="250px" />
+                            <img src="images/app-demos/connect-4-demo.gif" alt="connect-4-demo-gif" height="250px" target="_blank"/>
                         </a>
                         <br>
                         <br>
