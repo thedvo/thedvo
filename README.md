@@ -21,11 +21,11 @@ Here are some ideas to get you started:
     <div align="center">
         <table>
             <tr>
-                <td width="50%">
+                <td valign="top" width="50%">
                     <h3 align="center" color="white">Pokemon Trading Card Search</h3>
                     <div align="center">
                         <a href='https://pokemon-tcg-search-dvo.herokuapp.com/'>
-                            <img src="images/app-demos/poke_search_demo.gif" alt="pokemon-tcg-search-info" height="100%" />
+                            <img src="images/app-demos/poke_search_demo.gif" alt="pokemon-tcg-search-info" height="250px" />
                         </a>
                         <br>
                         <br>
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
                         <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to search through a well documented archive of Pokemon trading cards. </p>
                     </div>
                 </td>
-                <td width="50%">
+                <td valign="top" width="50%">
                     <h3 align="center" color="white">Connect 4</h3>
                     <div align="center">
                         <a href='https://thedvo.github.io/Connect-Four/'>
-                            <img src="images/app-demos/connect-4-demo.gif" height="100%" />
+                            <img src="images/app-demos/connect-4-demo.gif" alt="connect-4-demo-gif" height="250px" />
                         </a>
                         <br>
                         <br>
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
                         <p><strong>JavaScript, CSS, HTML</strong> - Two-Player Connect 4 game. Allows users to pick any color. </p>
                     </div>
                 </td>
+            </tr>
         </table>
     </div>
     <br>
