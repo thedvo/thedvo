@@ -1,4 +1,4 @@
-### Hi there, I'm Dan 👋
+### Hi, I'm Dan 👋
 
 
 <!--
