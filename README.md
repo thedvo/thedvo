@@ -1,6 +1,7 @@
 ### Hi, I'm Dan 👋
 
-I'm currently a Software Engineering Fellow in Springboard's 
+Feel free to check out some cool things I've made!
+
 <h2 align="center" color="white">Projects</h2>
     <div align="center">
         <table>
