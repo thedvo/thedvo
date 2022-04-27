@@ -102,15 +102,15 @@ I'm currently a Software Engineering Fellow in Springboard's
                     <h3 align="center" color="white">Other</h3>
                     <br>
                     <div align="center">
-                        &nbsp&nbsp&nbsp
+                        &nbsp
                         <img src="images/tech-stack/visual-studio-code.svg"
                             alt="VS Code" height="35" />
-                        &nbsp&nbsp&nbsp
+                        &nbsp
                         <img src="images/tech-stack/heroku-icon.svg"
                             alt="Heroku" height="35" />
-                        &nbsp&nbsp
+                        &nbsp
                         <img src="images/tech-stack/Git-logo.svg"
-                            alt="Git" height="35" />
+                            alt="Git" height="25" />
                         <br>
                         <br>
                         &nbsp
