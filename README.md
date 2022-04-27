@@ -2,6 +2,21 @@
 
 Feel free to check out some cool things I've made!
 
+<!--
+**thedvo/thedvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h2 align="center" color="white">Projects</h2>
     <div align="center">
         <table>
@@ -57,21 +72,21 @@ Feel free to check out some cool things I've made!
                     <br>
                     <div align="center">
                         <img src="images/tech-stack/javascript.svg"
-                            alt="JavaScript" height="35" />
+                            alt="JavaScript" title ="JavaScript" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/html-5.svg"
-                            alt="HTML" height="35" />
+                            alt="HTML" title ="HTML" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/css-3.svg"
-                            alt="CSS" height="35" />
+                            alt="CSS" title ="CSS" height="35" />
                         <br>
                         <br>
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/bootstrap.svg"
-                            alt="Bootstrap" height="35" />
+                            alt="Bootstrap" title ="Bootstrap"  height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/jquery-vertical.svg"
-                            alt="jQuery" height="35" />
+                            alt="jQuery" title ="jQuery" height="35" />
                     </div>
                 </td>
                 <td valign="top" width="33.3333%">
@@ -80,21 +95,21 @@ Feel free to check out some cool things I've made!
                     <div align="center">
                         &nbsp
                         <img src="images/tech-stack/python.svg"
-                            alt="Python" height="35" />
+                            alt="Python" title ="Python" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/nodejs-icon.svg"
-                            alt="Node.js" height="35" />
+                            alt="Node.js" title ="Node.js" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/expressjs-icon.svg"
-                            alt="Express" height="35" />
+                            alt="Express" title ="Express" height="35" />
                         <br>
                         <br>
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/flask.svg"
-                            alt="Flask" height="35" />
+                            alt="Flask" title ="Flask" height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/postgresql.svg"
-                            alt="Postgresql" height="35" />
+                            alt="Postgresql" title ="PostgreSQL" height="35" />
                         <br>
                         <br>
                     </div>
@@ -105,44 +120,30 @@ Feel free to check out some cool things I've made!
                     <div align="center">
                         &nbsp
                         <img src="images/tech-stack/visual-studio-code.svg"
-                            alt="VS Code" height="35" />
+                            alt="VS Code" title ="Visual Studio"  height="35" />
                         &nbsp&nbsp
                         <img src="images/tech-stack/heroku-icon.svg"
-                            alt="Heroku" height="35" />
+                            alt="Heroku" title ="Heroku" height="35" />
                         &nbsp&nbsp
                         <img src="images/tech-stack/Git-logo.svg"
-                            alt="Git" height="35" />
+                            alt="Git" title ="Git" height="35" />
                         &nbsp
-                        <img src="images/tech-stack/terminal.svg" alt="Terminal" height="35" />
+                        <img src="images/tech-stack/terminal.svg" alt="Terminal" title ="Terminal" height="35" />
                         &nbsp
                         <img src="images/tech-stack/postman-icon.svg"
-                            alt="Postman" height="35" />
+                            alt="Postman" title ="Postman" height="35" />
                         &nbsp
                         <img src="images/tech-stack/insomnia.svg"
-                            alt="Insomnia" height="35" />
+                            alt="Insomnia" title ="Insomnia"  height="35" />
                         &nbsp
                         <img src="images/tech-stack/jasmine.svg"
-                            alt="Jasmine" height="35" />
+                            alt="Jasmine" title ="Jasmine" height="35" />
                         &nbsp
                         <img src="images/tech-stack/jest.svg"
-                            alt="Jest" height="35" />
+                            alt="Jest" title ="Jest" height="35" />
                     </div>
                 </td>
             </tr>
         </table>
     </div>
-   
-<!--
-**thedvo/thedvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
