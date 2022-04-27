@@ -18,7 +18,7 @@ I'm currently a Software Engineering Fellow in Springboard's
                                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
                             </a>
                             <a href="https://pokemon-tcg-search-dvo.herokuapp.com/" target="_blank">
-                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD" />
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
                             </a>
                         </p>
                         <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to search through a well documented archive of Pokemon trading cards. </p>
@@ -37,7 +37,7 @@ I'm currently a Software Engineering Fellow in Springboard's
                                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
                             </a>
                             <a href="https://thedvo.github.io/Connect-Four/" target="_blank">
-                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD" />
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
                             </a>
                         </p>
                         <p><strong>JavaScript, CSS, HTML</strong> - Two-Player Connect 4 game. Allows users to pick any color. </p>
@@ -111,7 +111,6 @@ I'm currently a Software Engineering Fellow in Springboard's
                         &nbsp&nbsp
                         <img src="images/tech-stack/Git-logo.svg"
                             alt="Git" height="35" />
-                        <br>
                         &nbsp
                         <img src="images/tech-stack/terminal.svg" alt="Terminal" height="35" />
                         &nbsp
