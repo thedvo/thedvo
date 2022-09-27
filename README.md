@@ -22,6 +22,25 @@ Here are some ideas to get you started:
         <table>
             <tr>
                 <td valign="top" width="50%">
+                    <h3 align="center" color="white">Instagram Clone</h3>
+                    <div align="center">
+                        <a href='https://dvo-insta-clone.surge.sh/' target="_blank">
+                            <img src="images/app-demos/igclone.gif" alt="insta-clone" height="250px"/>
+                        </a>
+                        <br>
+                        <br>
+                        <p>
+                            <a href="https://github.com/thedvo/igclone-frontend" target="_blank">
+                                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
+                            </a>
+                            <a href="https://dvo-insta-clone.surge.sh/" target="_blank">
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
+                            </a>
+                        </p>
+                        <p><strong>Node.js, Express, React, PostgreSQL </strong> - Full-stack clone mimicking early version of Instagram. Photos only. </p>
+                    </div>
+                </td>
+                <td valign="top" width="50%">
                     <h3 align="center" color="white">Pokemon Trading Card Search</h3>
                     <div align="center">
                         <a href='https://pokemon-tcg-search-dvo.herokuapp.com/' target="_blank">
@@ -39,8 +58,10 @@ Here are some ideas to get you started:
                         </p>
                         <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to search through a well documented archive of Pokemon trading cards. </p>
                     </div>
-                </td>
-                <td valign="top" width="50%">
+                </td>  
+            </tr>
+            <tr>
+            <td valign="top" width="50%">
                     <h3 align="center" color="white">Connect 4</h3>
                     <div align="center">
                         <a href='https://thedvo.github.io/Connect-Four/' target="_blank">
@@ -147,4 +168,10 @@ Here are some ideas to get you started:
             </tr>
         </table>
     </div>
+
+<div align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedvo&hide=procfile&layout=compact&theme=dracula" />
+	</a>
+</div>
  
