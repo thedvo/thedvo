@@ -1,6 +1,6 @@
 ### Hi, I'm Dan 👋
 
-Feel free to check out some cool things I've made!
+Feel free to check out some cool things I've built!
 
 <!--
 **thedvo/thedvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
