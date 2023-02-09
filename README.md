@@ -104,11 +104,17 @@ Here are some ideas to get you started:
                         <br>
                         <br>
                         &nbsp&nbsp&nbsp
+                        <img src="images/tech-stack/react.svg"
+                            alt="React" title ="React"  height="35" />
+                        &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/bootstrap.svg"
                             alt="Bootstrap" title ="Bootstrap"  height="35" />
                         &nbsp&nbsp&nbsp
                         <img src="images/tech-stack/jquery-vertical.svg"
                             alt="jQuery" title ="jQuery" height="35" />
+                        &nbsp&nbsp&nbsp
+                        <img src="images/tech-stack/typescript.svg"
+                            alt="typescript" title ="typescript" height="35" />
                     </div>
                 </td>
                 <td valign="top" width="33.3333%">
