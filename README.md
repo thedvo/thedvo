@@ -33,7 +33,7 @@ Here are some ideas to get you started:
                             <a href="https://github.com/thedvo/capstone2-igClone-pern" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
                             </a>
-                            <a href="https://dvo-insta-clone.surge.sh/" target="_blank">
+                            <a href="http://ig-clone-dvo.surge.sh/" target="_blank">
                                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
                             </a>
                         </p>
