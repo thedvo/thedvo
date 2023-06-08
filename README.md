@@ -24,7 +24,7 @@ Here are some ideas to get you started:
                 <td valign="top" width="50%">
                     <h3 align="center" color="white">Instagram Clone</h3>
                     <div align="center">
-                        <a href='https://dvo-insta-clone.surge.sh/' target="_blank">
+                        <a href='http://ig-clone-dvo.surge.sh/' target="_blank">
                             <img src="images/app-demos/igclone.gif" alt="insta-clone" height="250px"/>
                         </a>
                         <br>
