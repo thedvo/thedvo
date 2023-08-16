@@ -37,13 +37,13 @@ Here are some ideas to get you started:
                                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
                             </a>
                         </p>
-                        <p><strong>Node.js, Express, React, PostgreSQL </strong> - Full-stack clone mimicking early version of Instagram. Photos only. </p>
+                        <p><strong>Node.js, Express, React, PostgreSQL </strong> - Full-stack clone mimicking early version of Instagram. Chronological Feed. No ads. </p>
                     </div>
                 </td>
                 <td valign="top" width="50%">
                     <h3 align="center" color="white">Pokemon Trading Card Search</h3>
                     <div align="center">
-                        <a href='https://pokemon-tcg-search-dvo.herokuapp.com/' target="_blank">
+                        <a href='https://dvo-pokemon-tcg.onrender.com/' target="_blank">
                             <img src="images/app-demos/poke_search_demo.gif" alt="pokemon-tcg-search-info" height="250px"/>
                         </a>
                         <br>
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
                             <a href="https://github.com/thedvo/pokemon-trading-card-search-app" target="_blank">
                                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" />
                             </a>
-                            <a href="https://pokemon-tcg-search-dvo.herokuapp.com/" target="_blank">
+                            <a href="https://dvo-pokemon-tcg.onrender.com/" target="_blank">
                                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
                             </a>
                         </p>
-                        <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to search through a well documented archive of Pokemon trading cards. </p>
+                        <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to explore a well documented archive of Pokemon trading cards. Come see the art and the stats! </p>
                     </div>
                 </td>  
             </tr>
