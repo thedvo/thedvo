@@ -3,9 +3,9 @@
 Feel free to check out some cool things I've built!
 
 - 🔭 I’m currently working on an app making travel planning a more pleasant experience
-- 🌱 I’m continuing my developer growth building projects with TypeScript, Node.js and React
+- 🌱 I’m continuing my growth building projects with TypeScript, Node.js and React
 - 📫 How to reach me: hello@danvo.me
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Golden State Warriors
 
 <h2 align="center" color="white">Projects</h2>
@@ -16,7 +16,7 @@ Feel free to check out some cool things I've built!
                     <h3 align="center" color="white">Wander Travel</h3>
                     <div align="center">
                         <a href='https://wander.live/' target="_blank">
-                            <img src="images/app-demos/poke_search_demo.gif" alt="wander-travel-homepage" height="250px"/>
+                            <img src="images/app-demos/wander_demo.gif" alt="wander-travel-homepage" height="250px"/>
                         </a>
                         <br>
                         <br>
@@ -95,91 +95,51 @@ Feel free to check out some cool things I've built!
 <h2 align="center" color="white">Technologies</h2>
     <div align="center">
         <table>
-            <tr>
-                <td valign="top" width="33.3333%">
-                    <h3 align="center" color="white">Frontend</h2>
-                    <br>
-                    <div align="center">
-                        <img src="images/tech-stack/javascript.svg"
-                            alt="JavaScript" title ="JavaScript" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/html-5.svg"
-                            alt="HTML" title ="HTML" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/css-3.svg"
-                            alt="CSS" title ="CSS" height="35" />
-                        <br>
-                        <br>
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/react.svg"
-                            alt="React" title ="React"  height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/bootstrap.svg"
-                            alt="Bootstrap" title ="Bootstrap"  height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/jquery-vertical.svg"
-                            alt="jQuery" title ="jQuery" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/typescript.svg"
-                            alt="typescript" title ="typescript" height="35" />
-                    </div>
-                </td>
-                <td valign="top" width="33.3333%">
-                    <h3 align="center" color="white">Backend</h3>
-                    <br>
-                    <div align="center">
-                        &nbsp
-                        <img src="images/tech-stack/python.svg"
-                            alt="Python" title ="Python" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/nodejs-icon.svg"
-                            alt="Node.js" title ="Node.js" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/expressjs-icon.svg"
-                            alt="Express" title ="Express" height="35" />
-                        <br>
-                        <br>
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/flask.svg"
-                            alt="Flask" title ="Flask" height="35" />
-                        &nbsp&nbsp&nbsp
-                        <img src="images/tech-stack/postgresql.svg"
-                            alt="Postgresql" title ="PostgreSQL" height="35" />
-                        <br>
-                        <br>
-                    </div>
-                </td>
-                <td valign="top" width="33.3333%">
-                    <h3 align="center" color="white">Other</h3>
-                    <br>
-                    <div align="center">
-                        &nbsp
-                        <img src="images/tech-stack/visual-studio-code.svg"
-                            alt="VS Code" title ="Visual Studio"  height="35" />
-                        &nbsp&nbsp
-                        <img src="images/tech-stack/heroku-icon.svg"
-                            alt="Heroku" title ="Heroku" height="35" />
-                        &nbsp&nbsp
-                        <img src="images/tech-stack/Git-logo.svg"
-                            alt="Git" title ="Git" height="35" />
-                        &nbsp
-                        <img src="images/tech-stack/terminal.svg" alt="Terminal" title ="Terminal" height="35" />
-                        &nbsp
-                        <img src="images/tech-stack/postman-icon.svg"
-                            alt="Postman" title ="Postman" height="35" />
-                        &nbsp
-                        <img src="images/tech-stack/insomnia.svg"
-                            alt="Insomnia" title ="Insomnia"  height="35" />
-                        &nbsp
-                        <img src="images/tech-stack/jasmine.svg"
-                            alt="Jasmine" title ="Jasmine" height="35" />
-                        &nbsp
-                        <img src="images/tech-stack/jest.svg"
-                            alt="Jest" title ="Jest" height="35" />
-                    </div>
-                </td>
-            </tr>
-        </table>
+	<tr>
+		<td valign="top" width="33.3333%">
+			<h3 align="center" color="white">Frontend</h3>
+			<br>
+				<div align="center">  
+      					<img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" height="25"/>  
+					<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25"/>  
+					<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="25"/> 
+					<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="25"/> 
+					<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25"/>
+					<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25"/>
+					<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height="25"/> 
+				</div>
+			</td>
+			<td valign="top" width="33.3333%">
+				<h3 align="center" color="white">Backend</h3>
+				<br>
+				<div align="center">
+					<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="25"/>
+					<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="25"/>  
+					<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" height="25"/>
+      					<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="25"/>  
+					<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="25"/> 
+     					<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firestore" height="25"/> 
+				</div>
+			</td>
+			<td valign="top" width="33.3333%">	
+				<h3 align="center" color="white">Other Tools</h3>
+				<br>
+				<div align="center">
+					<img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" height="25"/>
+					<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="25"/>
+					<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25"/>  
+					<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25"/>  
+					<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="25"/>
+					<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" height="25"/>
+					<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" height="25"/> 
+					<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25"/> 
+					<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="25"/>  
+					<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="25"/>   	
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
     </div>
 
 <div align="center">
