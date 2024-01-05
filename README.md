@@ -2,25 +2,32 @@
 
 Feel free to check out some cool things I've built!
 
-<!--
-**thedvo/thedvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an app making travel planning a more pleasant experience
+- 🌱 I’m continuing my developer growth building projects with TypeScript, Node.js and React
+- 📫 How to reach me: hello@danvo.me
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love the Golden State Warriors
 
 <h2 align="center" color="white">Projects</h2>
     <div align="center">
         <table>
             <tr>
+		<td valign="top" width="50%">
+                    <h3 align="center" color="white">Wander Travel</h3>
+                    <div align="center">
+                        <a href='https://wander.live/' target="_blank">
+                            <img src="images/app-demos/poke_search_demo.gif" alt="wander-travel-homepage" height="250px"/>
+                        </a>
+                        <br>
+                        <br>
+                        <p>
+                            <a href="https://wander.live/" target="_blank">
+                                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0071D7" />
+                            </a>
+                        </p>
+                        <p><strong>TypeScript, Node.js, React, Redux, Firebase Firestore</strong> - Travel planning application with collaborative itinerary planning capability</p>
+                    </div>
+                </td>  
                 <td valign="top" width="50%">
                     <h3 align="center" color="white">Instagram Clone</h3>
                     <div align="center">
@@ -40,7 +47,9 @@ Here are some ideas to get you started:
                         <p><strong>Node.js, Express, React, PostgreSQL </strong> - Full-stack clone mimicking early version of Instagram. Chronological Feed. No ads. </p>
                     </div>
                 </td>
-                <td valign="top" width="50%">
+            </tr>
+            <tr>
+		     <td valign="top" width="50%">
                     <h3 align="center" color="white">Pokemon Trading Card Search</h3>
                     <div align="center">
                         <a href='https://dvo-pokemon-tcg.onrender.com/' target="_blank">
@@ -59,8 +68,6 @@ Here are some ideas to get you started:
                         <p><strong>Python, HTML, CSS, Bootstrap </strong> - App for users to explore a well documented archive of Pokemon trading cards. Come see the art and the stats! </p>
                     </div>
                 </td>  
-            </tr>
-            <tr>
             <td valign="top" width="50%">
                     <h3 align="center" color="white">Connect 4</h3>
                     <div align="center">
