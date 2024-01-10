@@ -2,7 +2,7 @@
 
 Feel free to check out some cool things I've built!
 
-- 🔭 I’m currently working on an app making travel planning a more pleasant experience
+- 🔭 I’m currently working on an app making travel planning a more exciting and collaborative experience
 - 🌱 I’m continuing my growth building projects with TypeScript, Node.js and React
 - 📫 How to reach me: hello@danvo.me
 - 😄 Pronouns: He/Him
