@@ -4,7 +4,7 @@ Feel free to check out some cool things I've built!
 
 - 🔭 I’m currently working on making travel planning a more exciting and collaborative experience. GROUP travel plans shouldn't be delegated to one person!!!
 - 🌱 I’m continuing my growth building projects with TypeScript, Node.js and React
-- 📫 How to reach me: hello@danvo.me
+- 📫 How to reach me: danvo.vo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Golden State Warriors
 
